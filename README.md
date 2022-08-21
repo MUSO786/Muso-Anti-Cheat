@@ -1,7 +1,8 @@
 # Muso's Anti-Cheat
 
 ## Download
-Currently, a download is not available.
+### Latest Stable Release
+### Latest Developer Release
 
 ## License 
 
