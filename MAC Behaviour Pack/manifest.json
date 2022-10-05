@@ -4,7 +4,7 @@
         "description": "§7https://github.com/MUSO786/Muso-Anti-Cheat §r\n \n §fBehaviour Pack§r §7| §dv0.0.1§r\n \n§f➜§8 Cheats§r\n§f➜§8 Console Commands§r\n§f➜§8 Education Edition§r\n§f➜§8 Holiday Creator Features§r\n§f➜§8 Upcoming Creator Features§r\n§f➜§8 GameTest Framework§r\n§f➜§8 MoLang Features§r",
         "name": "§l§5Muso§f's §aAnti§f-§cCheat§r",
         "uuid":"9912a7df-42ce-4150-8bfc-71c4fe27139e",
-        "version": [0, 0, 1],
+        "version": [0, 1, 0],
         "min_engine_version": [1, 19, 0]
     },
     "modules":
@@ -13,13 +13,20 @@
             "description": "§7https://github.com/MUSO786/Muso-Anti-Cheat §r\n \n §fBehaviour Pack§r §7| §dv0.0.1§r\n \n§f➜§8 Cheats§r\n§f➜§8 Console Commands§r\n§f➜§8 Education Edition§r\n§f➜§8 Holiday Creator Features§r\n§f➜§8 Upcoming Creator Features§r\n§f➜§8 GameTest Framework§r\n§f➜§8 MoLang Features§r",
             "type": "data",
             "uuid": "ec537a65-8339-4e34-a2e1-7556df053ce7",
-            "version": [0, 0, 1]
+            "version": [0, 1, 0]
         }
         ],
     "dependencies": [
         {
         "uuid":"c675721e-bf27-4ae8-9382-9344b6c06b67",
-        "version":[0, 0, 1]
+        "version":[0, 1, 1]
         }
-    ]
+    ],
+    "metadata": {
+        {
+            "authors": [Muso],
+            "license": "CC BY-ND 4.0",
+            "url": "https://github.com/MUSO786/Muso-Anti-Cheat"
+        }
+    }
 }
