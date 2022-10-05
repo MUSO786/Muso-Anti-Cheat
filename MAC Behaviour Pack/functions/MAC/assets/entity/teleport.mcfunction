@@ -1,0 +1,1 @@
+tp @e[type=mac:mac] 0 10000000 0

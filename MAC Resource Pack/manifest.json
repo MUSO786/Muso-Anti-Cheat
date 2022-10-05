@@ -5,7 +5,7 @@
         "name": "§l§5Muso§f's §aAnti§f-§cCheat§r §70.0.1§r",
         "uuid":"c675721e-bf27-4ae8-9382-9344b6c06b67",
         "version": [0, 1, 0],
-        "min_engine_version": [1, 19, 0]
+        "min_engine_version": [1, 19, 10]
     },
     "modules": [
         {
