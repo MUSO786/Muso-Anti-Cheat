@@ -1,7 +1,7 @@
 # Muso's Anti-Cheat
 
 ## Tags & Ranks
-### Staff Bypass Tag
+### - Staff Bypass Tag
 This tag allows to bypass most features. The tag will not bypass some features.
 
 #### This is a example how to tag would work with The Illegal Items Setting Enabled.
@@ -17,12 +17,14 @@ If a player **with** the tag had an item that is only obtainable using Exploits 
 ```/tag <selector> add MAC-staff-bypass```
 #### Remove Staff Bypass Tag
 ```/tag <selector> remove MAC-staff-bypass```
-### Staff Alerts Tag
+
+### - Staff Alerts Tag
 In Progress...
 #### Add Staff Alerts Tag
 ```/tag <selector> add MAC-staff-alerts```
 #### Remove Staff Alerts Tag
 ```/tag <selector> remove MAC-staff-alerts```
+
 ## Download
 ### Latest Stable Release
 Coming Soon...
