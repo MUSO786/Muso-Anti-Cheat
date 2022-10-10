@@ -1,0 +1,1 @@
+scoreboard players add @e[type=mac:mac] MAC-illegalitems 0

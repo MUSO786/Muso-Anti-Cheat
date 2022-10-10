@@ -1,1 +1,2 @@
 diagnostic.disable.minecraft.commands.execute.syntax=true
+diagnostic.disable.behaviorpack.item.missing=true

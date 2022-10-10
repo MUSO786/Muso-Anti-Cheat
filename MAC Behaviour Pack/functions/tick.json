@@ -1,5 +1,6 @@
 {
     "values": [
-        "MAC/assets/entity/teleport"
+        "MAC/assets/entity/teleport",
+        "MAC/assets/scores"
     ]
 }
