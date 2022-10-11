@@ -16,7 +16,8 @@
         },
         {
             "description": "§l§5Muso§f's §aAnti§f-§cCheat§r",
-            "type": "javascript",
+            "language": "javascript",
+            "type": "script",
             "uuid": "8c96f0af-bcfe-42c3-a806-a0e7424a5017",
             "entry": "scripts/main.js",
             "version": [0, 0, 4]
