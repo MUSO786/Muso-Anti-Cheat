@@ -28,5 +28,4 @@ replaceitem entity @s slot.enderchest 25 air
 replaceitem entity @s slot.enderchest 26 air
 
 playsound random.break @s ~ ~ ~
-# tellraw @a {"rawtext":[{"text":"§l§cHey!§r §7Sorry, but you can't have Illegal Items here.§r"}]}
-tellraw @a {"rawtext":[{"text":"§l§cHey!§r §7Your inventory has been cleared by an Operator.§r"}]}
+tellraw @a {"rawtext":[{"text":"§l§cHey!§r §7Your inventory has been cleared.§r"}]}
