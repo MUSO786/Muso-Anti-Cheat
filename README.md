@@ -14,16 +14,16 @@ If a player **without** the tag had an item that is only obtainable using Exploi
 
 If a player **with** the tag had an item that is only obtainable using Exploits such as `Update Game Block` or `Portal Block`, it **would** punish them.
 #### Add Staff Bypass Tag
-```/tag <selector> add MAC-staff-bypass```
+    /tag <selector> add MAC-staff-bypass
 #### Remove Staff Bypass Tag
-```/tag <selector> remove MAC-staff-bypass```
+    /tag <selector> remove MAC-staff-bypass
 
 ### Staff Alerts Tag
 In Progress...
 #### Add Staff Alerts Tag
-```/tag <selector> add MAC-staff-alerts```
+    /tag <selector> add MAC-staff-alerts
 #### Remove Staff Alerts Tag
-```/tag <selector> remove MAC-staff-alerts```
+    /tag <selector> remove MAC-staff-alerts
 
 ## Download
 ### Latest Stable Release
