@@ -1,6 +1,19 @@
 import { world, Player, Dimension, Entity, ItemStack, MinecraftItemTypes, ScoreboardScoreInfo } from 'mojang-minecraft';
 const overworld = world.getDimension('overworld');
 
+function scoreTest(name, objective) {
+    try {
+        const score = parseInt(overworld.runCommand(`scoreboard players test ${name} ${objective} *`).statusMessage.match(/-?\d+/));
+        return score;
+    } catch {
+        return;
+    }
+
+}
+
+world.events.tick.subscribe(gametestTest);
+
+
 const IllegalItems = [
     'minecraft:movingblock',
     'minecraft:moving_block'
