@@ -1,4 +1,5 @@
 import { world, Player, Dimension, Entity, ItemStack, MinecraftItemTypes, ScoreboardScoreInfo } from 'mojang-minecraft';
+const overworld = world.getDimension('overworld');
 
 const IllegalItems = [
     'minecraft:movingblock',
