@@ -29,7 +29,7 @@
             "version":[0, 0, 4]
         },
         {
-            "uuid": "6995c1d0-0453-4343-9073-b4256c37446a",
+            "module_name": "mojang-minecraft",
             "version": [0, 0, 4]
         }
     ]
