@@ -31,10 +31,10 @@
         {
             "module_name": "mojang-minecraft",
             "version": "1.0.0-beta"
-      },
-      {
+        },
+        {
             "module_name": "mojang-gametest",
             "version": "1.0.0-beta"
-      }
+        }
     ]
 }
