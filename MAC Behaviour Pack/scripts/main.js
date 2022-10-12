@@ -11,9 +11,6 @@ function scoreTest(name, objective) {
 
 }
 
-world.events.tick.subscribe(gametestTest);
-
-
 const IllegalItems = [
     'minecraft:movingblock',
     'minecraft:moving_block'
