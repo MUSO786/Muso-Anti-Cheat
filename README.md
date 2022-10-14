@@ -1,6 +1,6 @@
 # Muso's Anti-Cheat
 
-<p align="center"><span class="summary"><a href="https://discord.gg/Ch8sqUMBJe" class="fulltext"><img src="https://badgen.net/badge/icon/discord/purple/?icon=discord&label"></a></p>
+<p align="center"><span class="summary"><a href="https://discord.gg/Ch8sqUMBJe" class="fulltext"><img src="https://badgen.net/badge/icon/discord/purple/?icon=discord&label"></a> <a href="https://github.com/MUSO786/Muso-Anti-Cheat" class="fulltext"><img src="https://badgen.net/badge/icon/github/purple/?icon=github&label"></a></p>
 
 ## Tags & Ranks
 ### Staff Bypass Tag
