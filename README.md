@@ -1,5 +1,7 @@
 # Muso's Anti-Cheat
 
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 ## Tags & Ranks
 ### Staff Bypass Tag
 This tag allows to bypass most features. The tag will not bypass some features.
