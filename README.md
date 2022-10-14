@@ -1,6 +1,6 @@
 # Muso's Anti-Cheat
 
-<center><a href="https://discord.gg/Ch8sqUMBJe" class="fulltext"><img src="https://badgen.net/badge/icon/discord/purple/?icon=discord&label"></a></center>
+<p align="center"><span class="summary"><a href="https://discord.gg/Ch8sqUMBJe" class="fulltext"><img src="https://badgen.net/badge/icon/discord/purple/?icon=discord&label"></a></p>
 
 ## Tags & Ranks
 ### Staff Bypass Tag
