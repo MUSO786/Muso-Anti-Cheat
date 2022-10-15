@@ -2,8 +2,6 @@
 
 <p align="center"><span class="summary"><a href="https://discord.gg/Ch8sqUMBJe" class="fulltext"><img src="https://badgen.net/badge/icon/discord/purple/?icon=discord&label"></a> <a href="https://github.com/MUSO786/Muso-Anti-Cheat" class="fulltext"><img src="https://badgen.net/badge/icon/github/green/?icon=github&label"></a></p>
 
-<image src="https://discord.com/widget?id=932249791101030430&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-
 ## Tags & Ranks
 ### Staff Bypass Tag
 This tag allows to bypass most features. The tag will not bypass some features.
