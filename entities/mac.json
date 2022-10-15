@@ -35,6 +35,18 @@
                 "always_show": false,
                 "allow_name_tag_renaming": false
             },
+            "minecraft:npc": {
+                "npc_data": {
+                "portrait_offsets": {
+                    "translate": [-7, 50, 0],
+                    "scale": [1.75, 1.75, 1.75]
+                },
+                    "picker_offsets": {
+                    "translate": [0, 20, 0],
+                    "scale": [1.7, 1.7, 1.7]
+                }
+                }
+            },
             "minecraft:physics": {}
         }
     }
