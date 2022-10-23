@@ -16,12 +16,13 @@ function scoreTest(name, objective) {
     }
 }
 
-
-const name = player.getName();
-if(name = globalBanned) {
-    player.runCommand(`tellraw @a[tag=MAC-mod] {"rawtext":[{"text":"§l§c${name}§r §7has been banned for being a threat to the server.§r"}]}`);
-    player.runCommand(`kick ${name} §l§cHey!§r §7You have been Global Banned.§r\n \n§fAppeal Link §l§k§8|§r §fhttps://discord.gg/Ch8sqUMBJe§r`);
-}
+// does not work will work on next update because i am lazy
+//
+// const name = player.getName();
+// if(name = globalBanned) {
+//     player.runCommand(`tellraw @a[tag=MAC-mod] {"rawtext":[{"text":"§l§c${name}§r §7has been banned for being a threat to the server.§r"}]}`);
+//     player.runCommand(`kick ${name} §l§cHey!§r §7You have been Global Banned.§r\n \n§fAppeal Link §l§k§8|§r §fhttps://discord.gg/Ch8sqUMBJe§r`);
+// }
 
 function worldBorder(player) {
     const {x, y, z} = player.location
