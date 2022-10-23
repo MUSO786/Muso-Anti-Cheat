@@ -1,0 +1,77 @@
+{
+	"format_version": "1.17.100",
+	"minecraft:npc_dialogue":
+	{
+		"scenes":
+		[
+			{
+				"scene_tag": "home",
+				"npc_name": { "rawtext": [ {"text":"§l§5Muso§f's §aAnti§f-§cCheat§r"} ] },
+				"text": { "rawtext": [ {"text":"§7https://github.com/MUSO786/Muso-Anti-Cheat§r\n \n§9https://discord.gg/Ch8sqUMBJe§r"} ] },
+				"buttons": [
+					{
+						"name": { "rawtext": [ {"text":"Vanish"} ] },
+						"commands": [
+							"/execute as @initiator run function MAC/toggle-vanish"
+						]
+					},
+					{
+						"name": { "rawtext": [ {"text":"Gamemode"} ] },
+						"commands": [
+							"/execute as @initiator run dialogue change @e[type=mac:mac] @s[tag=MAC-mod] gamemodeswitch"
+						]
+					},
+					{
+						"name": { "rawtext": [ {"text":"Settings"} ] },
+						"commands": [
+							"say §l§cHey!§r §7This feature is coming soon. Check our GitHub for Updates!§r"
+						]
+					},
+					{
+						"name": { "rawtext": [ {"text":"Kill Others"} ] },
+						"commands": [
+							"say §l§cHey!§r §7This feature is coming soon. Check our GitHub for Updates!§r"
+						]
+					},
+					{
+						"name": { "rawtext": [ {"text":"Mute Others"} ] },
+						"commands": [
+							"say §l§cHey!§r §7This feature is coming soon. Check our GitHub for Updates!§r"
+						]
+					},
+					{
+						"name": { "rawtext": [ {"text":"Ban Others"} ] },
+						"commands": [
+							"say §l§cHey!§r §7This feature is coming soon. Check our GitHub for Updates!§r"
+						]
+					}
+				]
+			},
+			{
+				"scene_tag": "gamemodeswitch",
+				"npc_name": { "rawtext": [ {"text":"§l§5Muso§f's §aAnti§f-§cCheat§r"} ] },
+				"text": { "rawtext": [ {"text":""} ] },
+				"buttons": [
+					{
+						"name": { "rawtext": [ {"text":"Default"} ] },
+						"commands": [
+							"/execute as @initiator run gamemode d @s[tag=MAC-mod]"
+						]
+					},
+					{
+						"name": { "rawtext": [ {"text":"Creative"} ] },
+						"commands": [
+							"/execute as @initiator run gamemode c @s[tag=MAC-mod]"
+						]
+					},
+					{
+						"name": { "rawtext": [ {"text":"Go Back"} ] },
+						"commands": [
+							"/execute as @initiator run dialogue change @e[type=mac:mac] @s[tag=MAC-mod] home"
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -2,30 +2,18 @@
 
 <p align="center"><span class="summary"><a href="https://discord.gg/Ch8sqUMBJe" class="fulltext"><img src="https://badgen.net/badge/icon/discord/purple/?icon=discord&label"></a> <a href="https://github.com/MUSO786/Muso-Anti-Cheat" class="fulltext"><img src="https://badgen.net/badge/icon/github/green/?icon=github&label"></a> <a href="https://creativecommons.org/licenses/by-nd/4.0/" class="fulltext"><img src="https://badgen.net/badge/license/CC%20BY-ND%204.0/red"></a></p></p>
 
+## Contents
+
+
 ## Tags & Ranks
-### Staff Bypass Tag
-This tag allows to bypass most features. The tag will not bypass some features.
-
-#### This is a example how to tag would work with The Illegal Items Setting Enabled.
-
-If a player **without** the tag had an item that is only obtainable using Console Commands or Exploits such as `Command Block` or `Structure Block`, it **would** punish them.
-
-If a player **with** the tag had an item that is only obtainable using Console Commands or Exploits such as `Command Block` or `Structure Block`, it **will not** affect them.
-
-If a player **without** the tag had an item that is only obtainable using Exploits such as `Update Game Block` or `Portal Block`, it **would** punish them.
-
-If a player **with** the tag had an item that is only obtainable using Exploits such as `Update Game Block` or `Portal Block`, it **would** punish them.
-#### Add Staff Bypass Tag
-    /tag <selector> add MAC-staff-bypass
-#### Remove Staff Bypass Tag
-    /tag <selector> remove MAC-staff-bypass
-
-### Staff Alerts Tag
-In Progress...
-#### Add Staff Alerts Tag
-    /tag <selector> add MAC-staff-alerts
-#### Remove Staff Alerts Tag
-    /tag <selector> remove MAC-staff-alerts
+### Player
+no perms lol
+### Moderator
+cant bypass but can ban etc
+### Administrator
+bypass and ban
+### Manager
+can do all things and change settings
 
 ## Download
 ### Latest Stable Release

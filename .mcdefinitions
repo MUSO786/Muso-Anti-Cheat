@@ -1,0 +1,16 @@
+function=MAC/index
+function=MAC/teleport
+function=MAC/toggle-vanish
+
+entity=mac:mac
+
+objective=MAC-vanish
+
+tag=MAC-mod
+tag=MAC-admin
+tag=MAC-manager
+
+objective=MAC-gametest
+tag=MAC-banned
+objective=MAC-muted
+tag=MAC-muted

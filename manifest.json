@@ -1,10 +1,14 @@
 {
+    "metadata": {
+        "url": "https://github.com/MUSO786/Muso-Anti-Cheat",
+        "license": "CC BY-ND 4.0"
+    },
     "format_version": 2,
     "header": {
-        "description": "§7https://github.com/MUSO786/Muso-Anti-Cheat §r\n \n §fBehaviour Pack§r §7| §dv0.0.4§r\n \n§f➜§8 Education Edition §r\n§f➜§8 Experimental Features§r",
+        "description": "§7https://github.com/MUSO786/Muso-Anti-Cheat§r\n \n§9https://discord.gg/Ch8sqUMBJe§r",
         "name": "§l§5Muso§f's §aAnti§f-§cCheat§r",
         "uuid":"9912a7df-42ce-4150-8bfc-71c4fe27139e",
-        "version": [0, 0, 4],
+        "version": [0, 1, 0],
         "min_engine_version": [1, 19, 10]
     },
     "modules": [
@@ -12,7 +16,7 @@
             "description": "§l§5Muso§f's §aAnti§f-§cCheat§r",
             "type": "data",
             "uuid": "ec537a65-8339-4e34-a2e1-7556df053ce7",
-            "version": [0, 0, 4]
+            "version": [0, 1, 0]
         },
         {
             "description": "§l§5Muso§f's §aAnti§f-§cCheat§r",
@@ -20,7 +24,7 @@
             "type": "script",
             "uuid": "8c96f0af-bcfe-42c3-a806-a0e7424a5017",
             "entry": "scripts/main.js",
-            "version": [0, 0, 4]
+            "version": [0, 1, 0]
         }
         ],
     "dependencies": [

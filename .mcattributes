@@ -1,0 +1,3 @@
+diagnostic.disable.minecraft.commands.execute.syntax=true
+diagnostic.disable.behaviorpack.mcfunction.missing=true
+diagnostic.disable.minecraft.mode.gamemodes.invalid=true
